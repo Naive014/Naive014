@@ -1,5 +1,5 @@
-🎓 Machine Learning Engineer  
-🏫 Student at Central University  
+Machine Learning Engineer  
+Student at Central University  
 
 ## Tech Stack
 
